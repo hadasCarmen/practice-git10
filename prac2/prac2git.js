@@ -49,7 +49,7 @@ async function fetchPosts() {
   console.log(Date.now() - start);
   console.log(count);
 
-  return l1;
+  return start;
 }
 // fetchPosts();
 // Option 2: Display post statistics
